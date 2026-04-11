@@ -1,4 +1,4 @@
-#  Natural Language Processing (NLP) Projects Repository
+#  Natural Language Processing (NLP) 
 
 Welcome to my **NLP Repository** 
 This repository contains fundamental concepts, techniques, and hands-on projects related to **Natural Language Processing**, a key domain of Artificial Intelligence.
@@ -88,21 +88,21 @@ Classifies movie reviews as positive or negative using NLP techniques.
 ###  3. Named Entity Recognition (NER)
 Identifies entities like names, locations, and organizations from text.
 
-[Repo Link]()
+[Repo Link](https://github.com/samhithaharini/nlp-and-cv-repository.git)
 
 ---
 
 ### 4. Part-of-Speech (POS) Tagging
 Assigns grammatical tags (noun, verb, adjective, etc.) to words.
 
-[Repo Link](
+[Repo Link](https://github.com/samhithaharini/nlp-and-cv-repository.git)
 
 ---
 
 ###  5. Spam vs Ham Classification (Bag of Words)
 Classifies messages as spam or not spam using BoW technique.
 
- [Repo Link]()
+ [Repo Link](https://github.com/samhithaharini/nlp-and-cv-repository.git)
  
 ---
 
@@ -119,7 +119,7 @@ Classifies messages as spam or not spam using BoW technique.
 
 ---
 
-##  Computer Vision with OpenCV
+#  Computer Vision with OpenCV
 
 ###  What is OpenCV?
 
