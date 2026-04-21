@@ -170,3 +170,8 @@ A real-time face recognition system that marks attendance using computer vision 
 [Repo Link](https://github.com/samhithaharini/face-recognition-attendance-system.git ) 
 
 ---
+
+### Face Reaction System
+A real-time face reaction system that detects the emotions of the person.
+
+[Repo Link](https://github.com/samhithaharini/face-reaction-system.git)
